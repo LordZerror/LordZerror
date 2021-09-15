@@ -1,5 +1,0 @@
-s = input()
-sl = list(s)
-sl[0] = sl[0].upper()
-ns = "".join(sl)
-print(ns)
