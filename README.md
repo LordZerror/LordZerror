@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LordZerror
+- 👋 Hi, I’m Kaushal Patil
 - 👀 I’m interested in C, C++, Java and Python for Data Science
 - 🌱 I’m currently learning Java and Python
 - 📫 How to reach me kaushal16103@gmail.com
