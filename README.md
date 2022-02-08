@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kaushal Patil
-- 👀 I’m interested in C++ for Competitive Programming and Python for DS, ML, AI
+- 👀 I’m interested in Python for DS, ML, AI and also Competitive Programming
 - 🌱 I’m currently learning Java and Python
 - 📫 How to reach me kaushal16103@gmail.com
 - 💞️ I’m looking to collaborate on Machine Learning and its uses in Fintech World
